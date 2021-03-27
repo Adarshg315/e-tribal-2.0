@@ -1,0 +1,16 @@
+[
+	{
+		"title": "Painting-1",
+		"id": "sticker_logo",
+		"description": "Show off your Snipcart support with a logo sticker!",
+		"price": "2.00",
+		"image": "/images/tribe-1.jpg"
+	},
+	{
+		"title": "Painting-2",
+		"id": "sticker_logo_pack",
+		"description": "Get a pack of 3 Snipcart logo stickers.",
+		"price": "4.00",
+		"image": "/images/tribe-2.jpg"
+	}
+]
